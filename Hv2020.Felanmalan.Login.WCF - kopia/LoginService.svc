@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Hv2020.Felanmalan.Login.WCF.LoginService" CodeBehind="LoginService.svc.cs" %>
